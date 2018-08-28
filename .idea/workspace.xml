@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf7322-7ce9-47e6-af88-3af1171b3734" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BudgetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BudgetService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BudgetServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BudgetServiceTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1659" />
+          <entry key="java" value="1728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1659" />
+          <entry key="JAVA" value="1728" />
         </counts>
       </usages-collector>
     </session>
@@ -59,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BudgetService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="419">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#121#122#0" expanded="true" />
@@ -73,19 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BudgetServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+            <state relative-caret-position="570">
+              <caret line="100" column="52" selection-start-line="100" selection-start-column="52" selection-end-line="100" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#271#272#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
                 <element signature="e#407#408#0" expanded="true" />
                 <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#2536#2537#0" expanded="true" />
+                <element signature="e#2591#2592#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,8 +127,8 @@
         <option value="$PROJECT_DIR$/src/IRepo.java" />
         <option value="$PROJECT_DIR$/src/Budget.java" />
         <option value="$PROJECT_DIR$/src/Repo.java" />
-        <option value="$PROJECT_DIR$/src/BudgetServiceTest.java" />
         <option value="$PROJECT_DIR$/src/BudgetService.java" />
+        <option value="$PROJECT_DIR$/src/BudgetServiceTest.java" />
       </list>
     </option>
   </component>
@@ -178,7 +177,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535446990331" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535447447947" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -260,14 +259,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535441238366</updated>
-      <workItem from="1535441240002" duration="5718000" />
+      <workItem from="1535441240002" duration="6118000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BudgetServiceTest - 2018.08.28 at 16h 24m 48s.xml">
-      <configuration name="BudgetServiceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BudgetServiceTest - 2018.08.28 at 16h 25m 26s.xml">
       <configuration name="BudgetServiceTest" configurationId="JUnit" />
     </history-entry>
@@ -295,9 +291,12 @@
     <history-entry file="BudgetServiceTest - 2018.08.28 at 16h 43m 49s.xml">
       <configuration name="BudgetServiceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BudgetServiceTest - 2018.08.28 at 17h 03m 04s.xml">
+      <configuration name="BudgetServiceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5718000" />
+    <option name="totallyTimeSpent" value="6118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1624" height="1027" extended-state="6" />
@@ -455,30 +454,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BudgetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BudgetServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+        <state relative-caret-position="570">
+          <caret line="100" column="52" selection-start-line="100" selection-start-column="52" selection-end-line="100" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#271#272#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
             <element signature="e#407#408#0" expanded="true" />
             <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BudgetService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2591#2592#0" expanded="true" />
           </folding>
         </state>
       </provider>
